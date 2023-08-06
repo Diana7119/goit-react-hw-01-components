@@ -1,0 +1,25 @@
+.item {
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    border: 1px solid silver;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 5px 10px;
+    gap: 10px;
+  }
+  
+  .status {
+    width: 10px;
+    height: 10px;
+    background-color: green;
+    border-radius: 50%;
+  }
+  
+  .statusOff {
+    background-color: red;
+  }
+  
+  .avatar {
+    border-radius: 5px;
+  }
+  

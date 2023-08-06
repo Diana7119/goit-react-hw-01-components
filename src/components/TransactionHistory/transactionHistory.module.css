@@ -1,0 +1,31 @@
+.transactionHistory {
+    background-color: silver;
+    border-radius: 5px;
+  }
+  
+  thead {
+    background-color: #1e90ff;
+    color: #fff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-transform: uppercase;
+  }
+  
+  th {
+    width: 200px;
+    padding: 10px 30px;
+  }
+  
+  td {
+    text-align: center;
+    padding: 10px 30px;
+    background-color: #fff;
+  }
+  
+  .bgcSilver {
+    background-color: #dcdcdc;
+  }
+  
+  .bgcWhite {
+    background-color: #fff;
+  }
+  
